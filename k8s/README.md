@@ -2,7 +2,7 @@
 
 
 #### docker-compose网段指定
-
+[How does compose chooses subnet for default network?](https://github.com/docker/compose/issues/4336)
 
 ```
  cat ~/.docker/daemon.json
